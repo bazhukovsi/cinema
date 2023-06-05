@@ -4,17 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3eb2dc7c-468f-433e-9d40-40a2dfce84f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/dbchangelog.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/liquibase.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/liquibase_test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/scripts/001_ddl_create_cinema_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="3eb2dc7c-468f-433e-9d40-40a2dfce84f6" name="Changes" comment="initial commit image">
+      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/Do_rassveta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/beglets.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/camerabag_cinema_macos_bigsur_icon_190311.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/forsag10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/korol_neba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/megalodon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/na_poroge_smerti.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/perevodchik.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/playmovies_media_movies_video_6886.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/vyzov.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +28,6 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="enabledProfiles">
-      <list>
-        <option value="test" />
-      </list>
-    </option>
   </component>
   <component name="ProjectId" id="2QeDp1YBTAV1gPGxBJPdpGBFFIv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,8 +67,16 @@
       <option name="presentableId" value="Default" />
       <updated>1685705334557</updated>
       <workItem from="1685705336358" duration="1206000" />
-      <workItem from="1685706565713" duration="2934000" />
+      <workItem from="1685706565713" duration="5309000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit update">
+      <created>1685940999786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685940999786</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +92,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit update" />
+    <MESSAGE value="initial commit image" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit image" />
   </component>
 </project>
